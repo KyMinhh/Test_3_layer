@@ -1,0 +1,18 @@
+﻿using DAL.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BLL
+{
+    public class MajorService
+    {
+        public List<Major> GetAllByFaculty(int? facultyId = null)
+        {
+            StudentDBContext db = new StudentDBContext();
+            return db.Majors.Where(p=>p.FacultyID == facultyId).ToList();
+        }
+    }
+}

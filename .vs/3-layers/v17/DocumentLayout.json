@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|c:\\users\\kyminh\\source\\repos\\3-layers\\3-layers\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE751471-41D3-46CD-93B3-63421A14ED62}|DAL\\DAL.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE751471-41D3-46CD-93B3-63421A14ED62}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|solutionrelative:bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|C:\\Users\\KyMinh\\source\\repos\\3-layers\\bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|solutionrelative:bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.cs",
+              "RelativeToolTip": "3-layers\\frmQuanLySinhVien.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwKIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:01:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmRegister.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmRegister.cs",
+              "RelativeToolTip": "3-layers\\frmRegister.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:06:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQuanLySinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLySinhVien.Designer.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.Designer.cs",
+              "RelativeToolTip": "3-layers\\frmQuanLySinhVien.Designer.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:41:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmRegister.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmRegister.cs [Design]*",
+              "RelativeToolTip": "3-layers\\frmRegister.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:02:42.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQuanLySinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\3-layers\\frmQuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "3-layers\\frmQuanLySinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:01:01.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\DAL\\Entities\\Major.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Major.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\DAL\\Entities\\Major.cs",
+              "RelativeToolTip": "DAL\\Entities\\Major.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:25:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\BLL\\FacultyService.cs",
+              "RelativeDocumentMoniker": "BLL\\FacultyService.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\BLL\\FacultyService.cs",
+              "RelativeToolTip": "BLL\\FacultyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:47:51.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\BLL\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\StudentService.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\3-layers\\BLL\\StudentService.cs",
+              "RelativeToolTip": "BLL\\StudentService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:47:52.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
